@@ -21,6 +21,8 @@ I am a Roblox Developer.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4ar&theme=github_dark" height="230"/>
 </a>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n4ar" alt="n4ar" /></a> </p>
+
 [1]: https://github.com/N4AR
 [2]: https://twitter.com/intent/follow?screen_name=n4ar_offical
 [3]: https://github.com/N4AR
