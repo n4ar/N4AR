@@ -4,11 +4,10 @@
 
 Hello ,
 
-I am a Roblox Developer.
+I am a Developer.
 
 ## 📬 Socials
 
-- Twitter: [twitter.com/n4ar_offical][2]
 - Github: [github.com/n4ar][3]
 
 ## &#x1f4c8; My GitHub Stats
@@ -24,7 +23,6 @@ I am a Roblox Developer.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n4ar" alt="n4ar" /></a> </p>
 
 [1]: https://github.com/N4AR
-[2]: https://twitter.com/intent/follow?screen_name=n4ar_offical
 [3]: https://github.com/N4AR
 [4]: https://www.youtube.com/
 [5]: https://github.com/N4AR/
