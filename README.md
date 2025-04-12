@@ -1,28 +1,29 @@
-[![N4AR](https://raw.githubusercontent.com/n4ar/n4ar.github.io/main/src.png)][1]
+# 👋 Hi, I’m Nitchakun Saengrungrueang (Near)
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=n4ar&color=FAC151)][5]
+🎓 Grade 11 Student at **Prommanusorn Phetchaburi School**  
+💡 Passionate about building the future with **AI**, **Electronics**, and **Machine Learning**
 
-Hello ,
+## 🚀 Interests
+- 🤖 Artificial Intelligence  
+- 📡 Electronics & Embedded Systems  
+- 🧠 Machine Learning & Deep Learning  
 
-I am a Developer.
+## 🧑‍💻 Programming Languages
 
-## 📬 Socials
+<div align="center">
+  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-- Github: [github.com/n4ar][3]
+</div>
 
-## &#x1f4c8; My GitHub Stats
+## 🛠 Tools & Platforms
 
-<a href="https://github.com/N4AR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=n4ar&theme=github_dark" alt="N4AR's GitHub Stats" height="230"/>
-</a>
+<div align="center">
 
-<a href="https://github.com/N4AR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4ar&theme=github_dark" height="230"/>
-</a>
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6600?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n4ar" alt="n4ar" /></a> </p>
-
-[1]: https://github.com/N4AR
-[3]: https://github.com/N4AR
-[4]: https://www.youtube.com/
-[5]: https://github.com/N4AR/
+</div>
