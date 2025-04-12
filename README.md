@@ -23,7 +23,8 @@
 <div align="center">
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
