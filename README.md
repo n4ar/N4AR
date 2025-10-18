@@ -54,5 +54,5 @@
 
 # 🧩 Featured Projects
 
-- 🔹 [NearLab](https://nearlab.dev) — Thai-based hardware brand for pre-flashed ESP32-S3 boards  
+- 🔹 [NearLab](https://nearlab.tech) — Thai-based hardware brand for pre-flashed ESP32-S3 boards  
 - 🔹 [Primonly](https://www.primonly.com) — Modern fashion eCommerce built with WordPress & WooCommerce  
