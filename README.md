@@ -4,11 +4,9 @@
 💡 Passionate about building the future with **AI**, **Electronics**, and **Machine Learning**
 
 ## 🚀 Interests
-- 🤖 Exploring how **AI** can solve real-world problems  
-- ⚡ Building creative **electronics projects** and prototypes  
-- 🧠 Learning about **machine learning** and data-driven decision making  
-- 🌐 Creating modern **web apps** with Next.js and Supabase  
-- 🧩 Combining **hardware + software** for meaningful impact
+- Defense Technology & Advanced Engineering
+- Modern Full-stack Development
+- Swift Ecosystem
 
 ## 🧑‍💻 Programming Languages
 
